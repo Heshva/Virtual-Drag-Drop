@@ -1,4 +1,4 @@
-# Virtual-Drag-Drop using opencv
+# Virtual Drag Drop using opencv
 
 This project demonstrates a simple application of hand tracking and gesture recognition using OpenCV and CVZone. It allows users to interact with rectangles on the screen by moving them with their fingertips. The rectangles can be dragged and repositioned based on the distance between two fingers (index and middle fingers).
 
